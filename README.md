@@ -91,11 +91,6 @@ Você pode criar copilotos personalizados através do [Microsoft Copilot Studio]
 
 ---
 
-## 🧠 Contribuições
-
-Pull requests e sugestões são bem-vindos! Sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/seu-repo/issues) para discutir melhorias ou dúvidas.
-
----
 
 ## 📝 Licença
 
