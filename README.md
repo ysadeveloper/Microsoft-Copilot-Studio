@@ -89,10 +89,4 @@ Você pode criar copilotos personalizados através do [Microsoft Copilot Studio]
 - [Documentação oficial do Microsoft Copilot Studio](https://learn.microsoft.com/power-virtual-agents/)
 - [Portal do Microsoft Copilot Studio](https://copilotstudio.microsoft.com)
 
----
-
-
-## 📝 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
